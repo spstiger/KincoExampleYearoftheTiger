@@ -1,2 +1,0 @@
-# KincoExampleYearoftheTiger
- Animation und Sprachumschaltung
