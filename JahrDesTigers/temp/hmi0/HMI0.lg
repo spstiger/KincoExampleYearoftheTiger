@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Logo><Window Size_cx="800" Size_cy="480" BKColor="0x5c3a0f"><draw name="" type="image" pos_sx="253" pos_sy="93" pos_ex="547" pos_ey="386" penwidth="1" penstyle="6" Flag="0" pencolor="0xeeeeaf" fillcolor="0xfae6e6" fill="color" GradientFill="false" BackgroundColor="0xfae6e6" ForegroundColor="0x0" lock_status="0" isgroupmember="no" src="..\image\Tiger_1.jpg" UseExtImage="false" ExtImageFileName="" ExtImageMemType="0"><View CtrlMode="0"/><DynamicGraph flag="0"/></draw></Window></Logo>
